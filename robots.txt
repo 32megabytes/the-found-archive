@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://thefoundarchive.com/sitemap.xml
+Sitemap: https://www.thefoundarchives.com/sitemap.xml

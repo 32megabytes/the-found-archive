@@ -1,9 +1,9 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "The Found Archive",
+    "title": "The Found Archives",
     "description": "",
-    "home_page_url": "https://thefoundarchive.com",
-    "feed_url": "https://thefoundarchive.com/feed.json",
+    "home_page_url": "https://www.thefoundarchives.com",
+    "feed_url": "https://www.thefoundarchives.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "Hayden"
