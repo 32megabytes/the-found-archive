@@ -1,0 +1,207 @@
+[
+    {
+        "path": "404.html",
+        "type": "file",
+        "md5": "e3b57f2aa69b2dc6d34c6e91cff5b0c5"
+    },
+    {
+        "path": "about.html",
+        "type": "file",
+        "md5": "81e4912b57755acdc3988988caf85de9"
+    },
+    {
+        "path": "copyright-disclosure.html",
+        "type": "file",
+        "md5": "82400bbb1e1e7aa75d5cc6665c3c10fd"
+    },
+    {
+        "path": "feed.json",
+        "type": "file",
+        "md5": "0d134cf9aa938a9f0734ee410e3f6aed"
+    },
+    {
+        "path": "feed.xml",
+        "type": "file",
+        "md5": "7e3676f1c24593fafa0aa989e441942f"
+    },
+    {
+        "path": "index.html",
+        "type": "file",
+        "md5": "86b63d61fd663cbea6b3b670e0483df0"
+    },
+    {
+        "path": "media",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/plugins",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "media/plugins/coreLightboxGallery",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe.min.css",
+        "type": "file",
+        "md5": "bbfcfcfc7aff4620107555b1d668227d"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe.esm.min.js",
+        "type": "file",
+        "md5": "97ca880233a37aa88ecd4e06b53c45bd"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe-lightbox.esm.min.js",
+        "type": "file",
+        "md5": "b505ee081119c5be142e0dbac4762f99"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe.umd.min.js",
+        "type": "file",
+        "md5": "80574f1ec4486c3613d668756ad7e600"
+    },
+    {
+        "path": "/media/plugins/coreLightboxGallery/photoswipe-lightbox.umd.min.js",
+        "type": "file",
+        "md5": "96c2a65aa83c62a874ddcd85cbdf69fb"
+    },
+    {
+        "path": "menu.html",
+        "type": "file",
+        "md5": "10e8869eb49b22ff572347ecae62e5ce"
+    },
+    {
+        "path": "robots.txt",
+        "type": "file",
+        "md5": "51dd37918ec0d26e53f7d4a767d57fc3"
+    },
+    {
+        "path": "search.html",
+        "type": "file",
+        "md5": "dba560e597c7f5ae3388f81241203377"
+    },
+    {
+        "path": "sitemap.xml",
+        "type": "file",
+        "md5": "da79f918f8a906311b035207270e01c1"
+    },
+    {
+        "path": "sitemap.xsl",
+        "type": "file",
+        "md5": "03c2f9a7fdcc46ff05c435907614a0b8"
+    },
+    {
+        "path": "tags",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/tags/index.html",
+        "type": "file",
+        "md5": "8f78daa735d28446cf2cbb8488a7e68d"
+    },
+    {
+        "path": "authors",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "authors/2artisans",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/authors/2artisans/index.html",
+        "type": "file",
+        "md5": "c0eb94f8d05eaa309c818bf5cc0f918b"
+    },
+    {
+        "path": "assets",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/css",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/css/editor.css",
+        "type": "file",
+        "md5": "e5909a88ba1158a79ba2dbf82d6b2d86"
+    },
+    {
+        "path": "/assets/css/main.css",
+        "type": "file",
+        "md5": "45df07ca245fc0e25f9938f995dfd0ee"
+    },
+    {
+        "path": "/assets/css/style.css",
+        "type": "file",
+        "md5": "d41cf3a620efc8d9ec45dadacc764e59"
+    },
+    {
+        "path": "assets/js",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/js/scripts.js",
+        "type": "file",
+        "md5": "e9e5c3efbaa696d1490988cf5b30e23b"
+    },
+    {
+        "path": "/assets/js/scripts.min.js",
+        "type": "file",
+        "md5": "ffcbea6c02c8178d10092962b235a5b0"
+    },
+    {
+        "path": "/assets/js/svg-fix.js",
+        "type": "file",
+        "md5": "7c0d2bb7276904b382e80bf2d85e8a96"
+    },
+    {
+        "path": "/assets/js/svg-map.js",
+        "type": "file",
+        "md5": "f0c119fe4ab4e9bba79dea32d15e32df"
+    },
+    {
+        "path": "assets/svg",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/svg/svg-map.svg",
+        "type": "file",
+        "md5": "cf04dfd5c3cc64e0be44692fe7d976a6"
+    },
+    {
+        "path": "assets/dynamic",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "assets/dynamic/fonts/brygada1918",
+        "type": "directory",
+        "md5": false
+    },
+    {
+        "path": "/assets/dynamic/fonts/brygada1918/brygada1918-italic.woff2",
+        "type": "file",
+        "md5": "a6978edef39b3d1be3a23ae082f65822"
+    },
+    {
+        "path": "/assets/dynamic/fonts/brygada1918/brygada1918.woff2",
+        "type": "file",
+        "md5": "cebc13a8cb02dc943ebb2df5d77ba4af"
+    }
+]
